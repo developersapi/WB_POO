@@ -10,6 +10,13 @@
 --------------------------------------------------------------------------------------------------------------------
 ## 	:handshake: Equipe
 
+### Professor:
+
+[<img src="https://github.com/developersapi/LMSApp/blob/main/ana.jpeg" width=115 > <br> <sub> @Anna Carolina <sub> DEV </sub>](https://github.com/gerson-pn)
+| :---: |
+
+### Alunos:
+
 [<img src="https://github.com/developersapi/LMSApp/blob/main/ana.jpeg" width=115 > <br> <sub> @Anna Carolina <sub> DEV </sub>](https://github.com/AnnaCMendes)| [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=115 > <br> <sub> @Pedro <sub> DEV </sub>](https://github.com/PedroSilva201) | [<img src="https://github.com/developersapi/LMSApp/blob/main/rafael.jpeg" width=115 > <br> <sub> @Rafael <sub> DEV </sub>](https://github.com/rafaeldossper)| [<img src="https://github.com/developersapi/LMSApp/blob/main/ricardofoto.jpg" width=115 > <br> <sub> @Ricardo <sub> SM </sub>](https://github.com/RicardoSousaPaiva) 
  | :---: |:---:|:---:|:---:|
 
