@@ -29,7 +29,7 @@
 
 ## :chart_with_upwards_trend: Diagrama de caso e uso:
 
-<h1 align="center"> ![](https://github.com/developersapi/WB_POO/blob/main/Caso%20de%20Uso%20UML.png) </h1> 
+## <h1 align="center"> ![](https://github.com/developersapi/WB_POO/blob/main/Caso%20de%20Uso%20UML.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
