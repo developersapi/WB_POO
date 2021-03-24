@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml"
+	xmlns:th="https://www.thymeleaf.org">
+<head>
+<title>Cadastro</title>
+</head>
+<body>
+	<a th:href="@{/cadastro}">Cadastrar mais um cliente</a><br/>
+	<h1>Relação de todos os clientes</h1>
+	<br />
+	<div th:each="pessoa:${pessoas}">
+		<p>
+			<span th:text="${pessoas.nome}"> </span>
+		</p>
+		<br />
+
+	</div>
+
+
+</body>
+</html>
