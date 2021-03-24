@@ -35,6 +35,8 @@
 
 ## :tea: Diagrama de Classes:
 
+## <h1 align="center"> ![](https://github.com/developersapi/WB_POO/blob/main/Caso%20de%20Uso%20UML.png) </h1> 
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## :rocket: Tecnologias:
