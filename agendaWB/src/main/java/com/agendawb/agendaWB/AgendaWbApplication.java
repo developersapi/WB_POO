@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AgendaWbApplication {
 
 	public static void main(String[] args) {
+		// outro comentario...
 		SpringApplication.run(AgendaWbApplication.class, args);
 	}
 
