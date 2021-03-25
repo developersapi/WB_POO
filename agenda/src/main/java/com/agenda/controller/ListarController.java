@@ -10,6 +10,10 @@ import org.springframework.web.servlet.ModelAndView;
 import com.agenda.dataBase.PessoaRepository;
 import com.agenda.model.Pessoa;
 
+/*
+ * Segue comentários do professor sobre o desenvolvimento da aplicação
+ * */
+
 @Controller
 public class ListarController {
 	
