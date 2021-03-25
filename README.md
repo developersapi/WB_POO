@@ -1,5 +1,5 @@
 ## HEAD
- ## refs/heads/sprint1
+ 
 ![Alt Text](https://github.com/developersapi/WB_POO/blob/sprint1/agendawp.png)
 
 --------------------------------------------------------------------------------------------------------------------
